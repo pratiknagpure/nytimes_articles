@@ -1,0 +1,1224 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1715,
+    "results": [
+        {
+            "url": "https://www.nytimes.com/2019/06/20/world/middleeast/iran-us-drone.html",
+            "adx_keywords": "Iran;Trump, Donald J;United States Defense and Military Forces;United States International Relations;Gulf of Oman Incident (June 2019);Drones (Pilotless Planes)",
+            "column": null,
+            "section": "World",
+            "byline": "By MICHAEL D. SHEAR, ERIC SCHMITT, MICHAEL CROWLEY and MAGGIE HABERMAN",
+            "type": "Article",
+            "title": "Strikes on Iran Approved by Trump, Then Abruptly Pulled Back",
+            "abstract": "Military and diplomatic officials still expected a strike as of 7 p.m. Thursday in retaliation for Iran shooting down an unmanned American drone.",
+            "published_date": "2019-06-20",
+            "source": "The New York Times",
+            "id": 100000006569257,
+            "asset_id": 100000006569257,
+            "views": 1,
+            "des_facet": [
+                "UNITED STATES DEFENSE AND MILITARY FORCES",
+                "UNITED STATES INTERNATIONAL RELATIONS",
+                "GULF OF OMAN INCIDENT (JUNE 2019)",
+                "DRONES (PILOTLESS PLANES)"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": [
+                "IRAN"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Let’s see what happens,” President Trump said Thursday after Iran shot down an American surveillance drone.",
+                    "copyright": "Erin Schaff/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/21/us/politics/20dc-military1-sub/20dc-arms1-sub-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/21/us/politics/20dc-military1-sub/merlin_156737610_aeba608a-2048-4990-864d-30da687e888a-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/21/us/politics/20dc-military1-sub/merlin_156737610_aeba608a-2048-4990-864d-30da687e888a-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/3b592c85-740b-5d77-9a75-c88555870db2"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/17/nyregion/manafort-rikers.html",
+            "adx_keywords": "Manafort, Paul J;Russian Interference in 2016 US Elections and Ties to Trump Associates;Prisons and Prisoners;Presidential Election of 2016;Justice Department;Frauds and Swindling;Rikers Island Prison Complex;Barr, William P;Mueller, Robert S III;Trump, Donald J;Manhattan (NYC);Pennsylvania;Rosen, Jeffrey Adam (1958- );Vance, Cyrus R Jr;Loretto (Penn)",
+            "column": null,
+            "section": "New York",
+            "byline": "By WILLIAM K. RASHBAUM and KATIE BENNER",
+            "type": "Article",
+            "title": "Paul Manafort Seemed Headed to Rikers. Then the Justice Department Intervened.",
+            "abstract": "The decision came after Attorney General William Barr’s top deputy sent a letter to state prosecutors. Mr. Manafort will now be held in a federal lockup while he faces state charges.",
+            "published_date": "2019-06-17",
+            "source": "The New York Times",
+            "id": 100000006563397,
+            "asset_id": 100000006563397,
+            "views": 2,
+            "des_facet": [
+                "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+                "PRISONS AND PRISONERS"
+            ],
+            "org_facet": [
+                "PRESIDENTIAL ELECTION OF 2016",
+                "JUSTICE DEPARTMENT",
+                "FRAUDS AND SWINDLING",
+                "RIKERS ISLAND PRISON COMPLEX"
+            ],
+            "per_facet": [
+                "MANAFORT, PAUL J",
+                "BARR, WILLIAM P",
+                "MUELLER, ROBERT S III",
+                "TRUMP, DONALD J",
+                "ROSEN, JEFFREY ADAM (1958- )",
+                "VANCE, CYRUS R JR"
+            ],
+            "geo_facet": [
+                "MANHATTAN (NYC)",
+                "PENNSYLVANIA",
+                "LORETTO (PENN)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Paul Manafort, President Trump’s former campaign chairman, shown entering court in 2018, will not be transferred to a Rikers Island jail as expected.",
+                    "copyright": "Jonathan Ernst/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/18/nyregion/18nymanafort/18nymanafort-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/18/nyregion/18nymanafort/18nymanafort-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/18/nyregion/18nymanafort/18nymanafort-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/f44db38c-7488-58c4-95a9-98d5208f250c"
+        },
+        {
+            "url": "https://www.nytimes.com/interactive/2019/us/politics/2020-candidate-interviews.html",
+            "adx_keywords": "Presidential Election of 2020;Sanders, Bernard;Warren, Elizabeth;O'Rourke, Beto;Buttigieg, Pete (1982- );Harris, Kamala D;Booker, Cory A;Klobuchar, Amy",
+            "column": "",
+            "section": "U.S.",
+            "byline": "",
+            "type": "Interactive",
+            "title": "18 Questions. 21 Candidates. Here’s What They Said.",
+            "abstract": "We asked 21 Democratic candidates the same 18 questions. Watch their answers.",
+            "published_date": "2019-06-19",
+            "source": "The New York Times",
+            "id": 100000006559359,
+            "asset_id": 100000006559359,
+            "views": 3,
+            "des_facet": [
+                "PRESIDENTIAL ELECTION OF 2020"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "SANDERS, BERNARD",
+                "WARREN, ELIZABETH",
+                "O'ROURKE, BETO",
+                "BUTTIGIEG, PETE (1982- )",
+                "HARRIS, KAMALA D",
+                "BOOKER, CORY A",
+                "KLOBUCHAR, AMY"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": null,
+                    "copyright": null,
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/18/us/2020-candidate-interviews-promo-1560883961387/2020-candidate-interviews-promo-1560883961387-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/18/us/2020-candidate-interviews-promo-1560883961387/2020-candidate-interviews-promo-1560883961387-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/18/us/2020-candidate-interviews-promo-1560883961387/2020-candidate-interviews-promo-1560883961387-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://interactive/a2680ad6-0d3d-5cd5-86bb-3954c2908689"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/21/us/migrant-children-border-soap.html",
+            "adx_keywords": "Immigration and Emigration;Children and Childhood;Immigration Detention;Border Patrol (US);Customs and Border Protection (US);Family Separation Policy (US Immigration);Mukherjee, Elora;Clint (Tex)",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By CAITLIN DICKERSON",
+            "type": "Article",
+            "title": "‘There Is a Stench’: No Soap and Overcrowding in Detention Centers for Migrant Children",
+            "abstract": "Inspectors and lawyers traveling to border facilities in Texas described tremendous overcrowding and filthy conditions for hundreds of children and other detainees.",
+            "published_date": "2019-06-21",
+            "source": "The New York Times",
+            "id": 100000006572700,
+            "asset_id": 100000006572700,
+            "views": 4,
+            "des_facet": [
+                "IMMIGRATION AND EMIGRATION",
+                "CHILDREN AND CHILDHOOD",
+                "IMMIGRATION DETENTION",
+                "FAMILY SEPARATION POLICY (US IMMIGRATION)"
+            ],
+            "org_facet": [
+                "BORDER PATROL (US)",
+                "CUSTOMS AND BORDER PROTECTION (US)"
+            ],
+            "per_facet": [
+                "MUKHERJEE, ELORA"
+            ],
+            "geo_facet": [
+                "CLINT (TEX)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A border station in Clint, Tex., where hundreds of migrant children are being held.",
+                    "copyright": "Cedar Attanasio/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/21/us/21borderkids-alt/21borderkids-alt-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/21/us/21borderkids-alt/21borderkids-alt-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/21/us/21borderkids-alt/21borderkids-alt-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/6052d269-7b87-5def-a9ee-317cbe476c7e"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/17/us/parkland-kyle-kashuv-harvard.html",
+            "adx_keywords": "Parkland, Fla, Shooting (2018);Kashuv, Kyle (2001- );Colleges and Universities;Admissions Standards;Harvard University;Parkland (Fla);Discrimination;Blacks;Race and Ethnicity;Anti-Semitism;Marjory Stoneman Douglas High School (Parkland, Fla)",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By PATRICIA MAZZEI",
+            "type": "Article",
+            "title": "Racist Comments Cost Conservative Parkland Student a Place at Harvard",
+            "abstract": "The student, Kyle Kashuv, a recent graduate of Marjory Stoneman Douglas High School, had repeatedly used racial slurs in a written chat with classmates when he was 16.",
+            "published_date": "2019-06-17",
+            "source": "The New York Times",
+            "id": 100000006562647,
+            "asset_id": 100000006562647,
+            "views": 5,
+            "des_facet": [
+                "PARKLAND, FLA, SHOOTING (2018)",
+                "COLLEGES AND UNIVERSITIES",
+                "ADMISSIONS STANDARDS",
+                "BLACKS"
+            ],
+            "org_facet": [
+                "HARVARD UNIVERSITY",
+                "DISCRIMINATION",
+                "RACE AND ETHNICITY",
+                "ANTI-SEMITISM",
+                "MARJORY STONEMAN DOUGLAS HIGH SCHOOL (PARKLAND, FLA)"
+            ],
+            "per_facet": [
+                "KASHUV, KYLE (2001- )"
+            ],
+            "geo_facet": [
+                "PARKLAND (FLA)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Harvard rescinded its offer of admission to Kyle Kashuv, a former Marjory Stoneman Douglas High School student and an advocate for gun rights.",
+                    "copyright": "Erin Schaff for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/17/us/17PARKLAND/17PARKLAND-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/17/us/17PARKLAND/17PARKLAND-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/17/us/17PARKLAND/17PARKLAND-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/f42f4ce2-6474-5f57-af77-0b6d04731832"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/20/us/politics/minnesota-refugees-trump.html",
+            "adx_keywords": "St Cloud (Minn);Refugees and Displaced Persons;Somali-Americans;Discrimination;Immigration and Emigration;Race and Ethnicity;Whites;Concerned Community Citizens (C-Cubed)",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By ASTEAD W. HERNDON",
+            "type": "Article",
+            "title": "‘These People Aren’t Coming From Norway’: Refugees in a Minnesota City Face a Backlash",
+            "abstract": "As more Somali refugees arrive in St. Cloud, white anti-immigration activists have pressed an increasingly explicit anti-Muslim agenda.",
+            "published_date": "2019-06-20",
+            "source": "The New York Times",
+            "id": 100000006480075,
+            "asset_id": 100000006480075,
+            "views": 6,
+            "des_facet": [
+                "SOMALI-AMERICANS",
+                "DISCRIMINATION",
+                "IMMIGRATION AND EMIGRATION"
+            ],
+            "org_facet": [
+                "REFUGEES AND DISPLACED PERSONS",
+                "RACE AND ETHNICITY",
+                "WHITES",
+                "CONCERNED COMMUNITY CITIZENS (C-CUBED)"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "ST CLOUD (MINN)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ekram Elmoge, a 21-year-old who resettled in St. Cloud from Somalia about five years ago, said she had been harassed by white residents.",
+                    "copyright": "Jenn Ackerman for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/14/us/politics/00stcloud6/merlin_156461304_267fea0a-7a1c-49f2-ba33-d1e348aecc94-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/14/us/politics/00stcloud6/00stcloud6-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/14/us/politics/00stcloud6/00stcloud6-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/5e27a732-edf1-519e-901d-f75a39d691b6"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/22/science/nasa-mars-rover-life.html",
+            "adx_keywords": "Mars (Planet);Curiosity (Mars Rover);Methane;Extraterrestrial Life;National Aeronautics and Space Administration;Space and Astronomy",
+            "column": null,
+            "section": "Science",
+            "byline": "By KENNETH CHANG",
+            "type": "Article",
+            "title": "NASA Rover on Mars Detects Puff of Gas That Hints at Possibility of Life",
+            "abstract": "The Curiosity mission’s scientists picked up the signal this week, and are seeking additional readings from the red planet.",
+            "published_date": "2019-06-22",
+            "source": "The New York Times",
+            "id": 100000006573797,
+            "asset_id": 100000006573797,
+            "views": 7,
+            "des_facet": [
+                "MARS (PLANET)",
+                "CURIOSITY (MARS ROVER)",
+                "METHANE",
+                "EXTRATERRESTRIAL LIFE",
+                "SPACE AND ASTRONOMY"
+            ],
+            "org_facet": [
+                "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A self-portrait of NASA's Curiosity rover on Mars in June 2018.",
+                    "copyright": "NASA, via Agence France-Presse &mdash; Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/23/science/23mars1/21mars1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/23/science/23mars1/21mars1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/23/science/23mars1/21mars1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/d7173bb8-1d05-5a04-8f27-4d3ffbca0322"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/21/science/giant-squid-cephalopod-video.html",
+            "adx_keywords": "Squid;Oceans and Seas;Widder, Edie;Robinson, Nathan J;Video Recordings, Downloads and Streaming;Research;Cameras;your-feed-science",
+            "column": null,
+            "section": "Science",
+            "byline": "By BROOKE JARVIS",
+            "type": "Article",
+            "title": "Giant Squid, Phantom of the Deep, Reappears on Video",
+            "abstract": "Seven years after scientists caught the elusive deep-sea cephalopod on video, they saw another. Then lightning struck a third time.",
+            "published_date": "2019-06-21",
+            "source": "The New York Times",
+            "id": 100000006570737,
+            "asset_id": 100000006570737,
+            "views": 8,
+            "des_facet": [
+                "SQUID",
+                "OCEANS AND SEAS",
+                "YOUR-FEED-SCIENCE"
+            ],
+            "org_facet": [
+                "VIDEO RECORDINGS, DOWNLOADS AND STREAMING",
+                "RESEARCH",
+                "CAMERAS"
+            ],
+            "per_facet": [
+                "WIDDER, EDIE",
+                "ROBINSON, NATHAN J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Edie Widder and Nathan Robinson",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/22/autossell/squid-still-promo/squid-cover-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/22/autossell/squid-still-promo/squid-still-promo-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/22/autossell/squid-still-promo/squid-still-promo-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/c55ee629-a43d-5123-a23c-6e70de47eaa9"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/18/us/politics/michael-savage-trump.html",
+            "adx_keywords": "Trump, Donald J;Savage, Michael;United States Politics and Government;Presidential Election of 2016;Immigration and Emigration;Radio;Conservatism (US Politics)",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By JEREMY W. PETERS",
+            "type": "Article",
+            "title": "Michael Savage Has Doubts About Trump. His Conservative Radio Audience Does Not.",
+            "abstract": "Michael Savage was one of the first radio hosts to endorse Mr. Trump. Now he thinks the president’s fans are too uncritical. But his listeners aren’t so sure.",
+            "published_date": "2019-06-18",
+            "source": "The New York Times",
+            "id": 100000006551100,
+            "asset_id": 100000006551100,
+            "views": 9,
+            "des_facet": [
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "PRESIDENTIAL ELECTION OF 2016",
+                "CONSERVATISM (US POLITICS)"
+            ],
+            "org_facet": [
+                "IMMIGRATION AND EMIGRATION",
+                "RADIO"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J",
+                "SAVAGE, MICHAEL"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Michael Savage hosts his conservative radio show from his home in Tiburon, Calif.",
+                    "copyright": "Jason Henry for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/18/us/18savage-promo/18savage-promo-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/18/us/18savage-promo/18savage-promo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/18/us/18savage-promo/18savage-promo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/003b6a44-7162-5ec8-ac2c-c9db875c8a60"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/22/us/wilks-brothers-fracking-business.html",
+            "adx_keywords": "Idaho;Wilks, Dan;Wilks, Farris;Real Estate and Housing (Residential);Land Use Policies;Trespassing;Federal Lands;Public Property;Fences and Property Barriers;Western States (US)",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By JULIE TURKEWITZ",
+            "type": "Article",
+            "title": "Who Gets to Own the West?",
+            "abstract": "A new group of billionaires is shaking up the landscape.",
+            "published_date": "2019-06-22",
+            "source": "The New York Times",
+            "id": 100000006515618,
+            "asset_id": 100000006515618,
+            "views": 10,
+            "des_facet": [
+                "LAND USE POLICIES",
+                "FEDERAL LANDS",
+                "PUBLIC PROPERTY",
+                "FENCES AND PROPERTY BARRIERS"
+            ],
+            "org_facet": [
+                "REAL ESTATE AND HOUSING (RESIDENTIAL)",
+                "TRESPASSING"
+            ],
+            "per_facet": [
+                "WILKS, DAN",
+                "WILKS, FARRIS"
+            ],
+            "geo_facet": [
+                "IDAHO",
+                "WESTERN STATES (US)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Payette River canyon in Smiths Ferry, Idaho. Parts of the area are now owned by Dan and Farris Wilks, leaders among a new class of landowners who are buying up vast parcels of the West. ",
+                    "copyright": "Max Whittaker for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/19/us/00land-01/00land-01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/19/us/00land-01/merlin_148269030_6e14b10d-3d41-4aab-82ae-5b3102566be9-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/19/us/00land-01/merlin_148269030_6e14b10d-3d41-4aab-82ae-5b3102566be9-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/c1ba4047-9901-5473-a9a6-997852a2c5c8"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/22/us/new-hampshire-motorcycle-accident.html",
+            "adx_keywords": "Motorcycles, Motor Bikes and Motorscooters;Traffic Accidents and Safety;Deaths (Fatalities);Randolph (NH)",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By SANDRA E. GARCIA",
+            "type": "Article",
+            "title": "7 Killed After a Pickup Truck Crashes Into Motorcyclists in New Hampshire, Police Say",
+            "abstract": "The pickup truck exploded after the crash on a rural two-lane road, a witness said.",
+            "published_date": "2019-06-22",
+            "source": "The New York Times",
+            "id": 100000006574526,
+            "asset_id": 100000006574526,
+            "views": 11,
+            "des_facet": [
+                "MOTORCYCLES, MOTOR BIKES AND MOTORSCOOTERS",
+                "TRAFFIC ACCIDENTS AND SAFETY"
+            ],
+            "org_facet": [
+                "DEATHS (FATALITIES)"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "RANDOLPH (NH)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Seven people were killed after several motorcycles and a pickup truck collided on a rural highway in Randolph, N.H., on Friday, officials said.",
+                    "copyright": "Miranda Thompson, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/23/multimedia/23xp-crash/22xp-crash-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/23/multimedia/23xp-crash/22xp-crash-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/23/multimedia/23xp-crash/22xp-crash-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/38dc6bb9-0a1f-5068-ad59-44b9ccfd9e8b"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/18/opinion/sarah-sanders-trump.html",
+            "adx_keywords": "Sanders, Sarah Huckabee;News and News Media;Trump, Donald J;United States Politics and Government;Biden, Joseph R Jr;Presidential Election of 2020",
+            "column": "The Conversation",
+            "section": "Opinion",
+            "byline": "By GAIL COLLINS and BRET STEPHENS",
+            "type": "Article",
+            "title": "Sarah Huckabee Sanders Wants You to Know She Was Not Impressed",
+            "abstract": "She surveyed the media landscape and decided that truth was what she said it was.",
+            "published_date": "2019-06-18",
+            "source": "The New York Times",
+            "id": 100000006562954,
+            "asset_id": 100000006562954,
+            "views": 12,
+            "des_facet": [
+                "NEWS AND NEWS MEDIA",
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "PRESIDENTIAL ELECTION OF 2020"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "SANDERS, SARAH HUCKABEE",
+                "TRUMP, DONALD J",
+                "BIDEN, JOSEPH R JR"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sarah Huckabee Sanders briefing reporters at the White House last year.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/18/opinion/18conversationNew/18conversationNew-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/18/opinion/18conversationNew/18conversationNew-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/18/opinion/18conversationNew/18conversationNew-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/ec7ecba3-0c2c-5215-8356-d1157ca2e27e"
+        },
+        {
+            "url": "https://www.nytimes.com/interactive/2019/06/20/business/economy/starter-homes-investors.html",
+            "adx_keywords": "Real Estate and Housing (Residential);Atlanta (Ga)",
+            "column": "",
+            "section": "Business",
+            "byline": "By BEN CASSELMAN and CONOR DOUGHERTY",
+            "type": "Interactive",
+            "title": "Want a House Like This? Prepare for a Bidding War With Investors",
+            "abstract": "As investors increasingly buy up starter homes, they are reshaping the real estate market around the country, and driving up prices for everyone else.",
+            "published_date": "2019-06-20",
+            "source": "The New York Times",
+            "id": 100000006567680,
+            "asset_id": 100000006567680,
+            "views": 13,
+            "des_facet": [
+                "REAL ESTATE AND HOUSING (RESIDENTIAL)"
+            ],
+            "org_facet": "",
+            "per_facet": "",
+            "geo_facet": [
+                "ATLANTA (GA)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The home at 1375 Boulevard Lorraine in Atlanta.<br /><br />",
+                    "copyright": "Elijah Nouvelage for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/20/business/20HOUSING-promo/20HOUSING-promo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/20/business/20HOUSING-promo/2916c6a0fe5e404ea908104c056ecd86-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/20/business/20HOUSING-promo/2916c6a0fe5e404ea908104c056ecd86-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://interactive/401ab672-7136-502f-866e-5db0e845baca"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/16/us/baby-constantine-romania-migrants.html",
+            "adx_keywords": "Family Separation Policy (US Immigration);Immigration Detention;Children and Childhood;Foster Care;Romani People;Asylum, Right of;United States Politics and Government;Bethany Christian Services;Immigration and Customs Enforcement (US);Kalamazoo (Mich);Romania;Mutu, Constantin (2017 - )",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By CAITLIN DICKERSON and TODD HEISLER",
+            "type": "Article",
+            "title": "The Youngest Child Separated From His Family at the Border Was 4 Months Old",
+            "abstract": "Baby Constantin spent five months of his first year in a foster home. His family got a painful look at America’s experiment with family separation as an immigration policy.",
+            "published_date": "2019-06-16",
+            "source": "The New York Times",
+            "id": 100000006537720,
+            "asset_id": 100000006537720,
+            "views": 14,
+            "des_facet": [
+                "FAMILY SEPARATION POLICY (US IMMIGRATION)"
+            ],
+            "org_facet": [
+                "IMMIGRATION DETENTION",
+                "CHILDREN AND CHILDHOOD",
+                "FOSTER CARE",
+                "ROMANI PEOPLE",
+                "ASYLUM, RIGHT OF",
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "BETHANY CHRISTIAN SERVICES",
+                "IMMIGRATION AND CUSTOMS ENFORCEMENT (US)",
+                "MUTU, CONSTANTIN (2017 - )"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "KALAMAZOO (MICH)",
+                "ROMANIA"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Constantin Mutu was separated from his parents at the southern border of the United States when he was 4 months old.",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/03/us/00constantin-08/00constantin-08-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/03/us/00constantin-08/merlin_155664420_5c8337bc-523a-4878-98af-cf672e4d5807-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/03/us/00constantin-08/merlin_155664420_5c8337bc-523a-4878-98af-cf672e4d5807-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/b1af5f02-4cf4-5654-978d-d178cfdf1105"
+        },
+        {
+            "url": "https://www.nytimes.com/interactive/2019/06/18/upshot/cities-across-america-question-single-family-zoning.html",
+            "adx_keywords": "Real Estate and Housing (Residential);Zoning;Affordable Housing;Land Use Policies;Urban Areas;Income Inequality;Portland (Ore);Minneapolis (Minn);Seattle (Wash);New York City;Washington (DC);Charlotte (NC);San Jose (Calif);Los Angeles (Calif);Chicago (Ill);Sandy Springs (Ga);Arlington (Tex)",
+            "column": "",
+            "section": "The Upshot",
+            "byline": "By EMILY BADGER and QUOCTRUNG BUI",
+            "type": "Interactive",
+            "title": "Cities Start to Question an American Ideal: A House With a Yard on Every Lot",
+            "abstract": "Rising concerns about housing affordability, racial inequality and climate change are causing cities nationwide to re-examine their attachment to the detached house.",
+            "published_date": "2019-06-18",
+            "source": "The New York Times",
+            "id": 100000006560006,
+            "asset_id": 100000006560006,
+            "views": 15,
+            "des_facet": [
+                "REAL ESTATE AND HOUSING (RESIDENTIAL)",
+                "ZONING"
+            ],
+            "org_facet": [
+                "AFFORDABLE HOUSING",
+                "LAND USE POLICIES",
+                "URBAN AREAS",
+                "INCOME INEQUALITY"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "PORTLAND (ORE)",
+                "MINNEAPOLIS (MINN)",
+                "SEATTLE (WASH)",
+                "NEW YORK CITY",
+                "WASHINGTON (DC)",
+                "CHARLOTTE (NC)",
+                "SAN JOSE (CALIF)",
+                "LOS ANGELES (CALIF)",
+                "CHICAGO (ILL)",
+                "SANDY SPRINGS (GA)",
+                "ARLINGTON (TEX)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": null,
+                    "copyright": null,
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/17/us/up-single-family-zoning-promo-1560790376766/up-single-family-zoning-promo-1560790376766-thumbStandard-v4.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/17/us/up-single-family-zoning-promo-1560790376766/up-single-family-zoning-promo-1560790376766-mediumThreeByTwo210-v4.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/17/us/up-single-family-zoning-promo-1560790376766/up-single-family-zoning-promo-1560790376766-mediumThreeByTwo440-v4.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://interactive/69c533d7-5f51-5b5d-9f8e-284daca5efcb"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/20/us/politics/saudi-arms-sales.html",
+            "adx_keywords": "Senate;Trump, Donald J;Arms Trade;United States Defense and Military Forces;United States Politics and Government;United States International Relations;Graham, Lindsey;McConnell, Mitch;Khashoggi, Jamal;Saudi Arabia;Mohammed bin Salman (1985- );United Arab Emirates;Defense and Military Forces",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By CATIE EDMONDSON",
+            "type": "Article",
+            "title": "Senate Votes to Block Trump’s Arms Sales to Gulf Nations in Bipartisan Rebuke",
+            "abstract": "The vote illustrated the deep divide between lawmakers and the administration over Saudi Arabia and the president’s attempts to circumvent Congress on national security decisions.",
+            "published_date": "2019-06-20",
+            "source": "The New York Times",
+            "id": 100000006569526,
+            "asset_id": 100000006569526,
+            "views": 16,
+            "des_facet": [
+                "ARMS TRADE",
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "DEFENSE AND MILITARY FORCES"
+            ],
+            "org_facet": [
+                "SENATE",
+                "UNITED STATES DEFENSE AND MILITARY FORCES",
+                "UNITED STATES INTERNATIONAL RELATIONS"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J",
+                "GRAHAM, LINDSEY",
+                "MCCONNELL, MITCH",
+                "KHASHOGGI, JAMAL",
+                "MOHAMMED BIN SALMAN (1985- )"
+            ],
+            "geo_facet": [
+                "SAUDI ARABIA",
+                "UNITED ARAB EMIRATES"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“While I understand that Saudi Arabia is a strategic ally, the behavior of Mohammed bin Salman cannot be ignored,” said Senator Lindsey Graham, Republican of South Carolina, who voted to block the arms sale.",
+                    "copyright": "Gabriella Demczuk for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/20/us/politics/20dc-arms-sub/20dc-arms-sub-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/20/us/politics/20dc-arms-sub/merlin_156739725_f088eaa3-696e-4478-a1e5-0e4a4304b937-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/20/us/politics/20dc-arms-sub/merlin_156739725_f088eaa3-696e-4478-a1e5-0e4a4304b937-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/5ec2a87c-90b5-5cba-8ffa-9ad790070604"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/21/us/politics/trump-iran-strike.html",
+            "adx_keywords": "Iran;Trump, Donald J;United States International Relations;United States Politics and Government;United States Defense and Military Forces;Carlson, Tucker;Dunford, Joseph F Jr;Graham, Lindsey;Shanahan, Patrick M (1962- );Bolton, John R",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By PETER BAKER, MAGGIE HABERMAN and THOMAS GIBBONS-NEFF",
+            "type": "Article",
+            "title": "Urged to Launch an Attack, Trump Listened to the Skeptics Who Said It Would Be a Costly Mistake",
+            "abstract": "Meetings and memos aside, the president trusted his instincts more than institutions and was willing to defy a roomful of advisers.",
+            "published_date": "2019-06-21",
+            "source": "The New York Times",
+            "id": 100000006573478,
+            "asset_id": 100000006573478,
+            "views": 17,
+            "des_facet": [
+                "UNITED STATES INTERNATIONAL RELATIONS",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "UNITED STATES DEFENSE AND MILITARY FORCES"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J",
+                "CARLSON, TUCKER",
+                "DUNFORD, JOSEPH F JR",
+                "GRAHAM, LINDSEY",
+                "SHANAHAN, PATRICK M (1962- )",
+                "BOLTON, JOHN R"
+            ],
+            "geo_facet": [
+                "IRAN"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump, meeting with military leaders this year, relies on a decision-making process that is different from those of other presidents.",
+                    "copyright": "Sarah Silbiger/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/21/us/politics/21dcReconstruct-sub/merlin_153031737_86ca4147-e194-46a8-b805-901dcc32f922-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/21/us/politics/21dcReconstruct-sub/merlin_153031737_86ca4147-e194-46a8-b805-901dcc32f922-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/21/us/politics/21dcReconstruct-sub/merlin_153031737_86ca4147-e194-46a8-b805-901dcc32f922-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/1c178838-8941-5d2b-9e9c-5601dadda6e0"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/17/magazine/elizabeth-warren-president.html",
+            "adx_keywords": "Warren, Elizabeth;Democratic Party;Presidential Election of 2020;Banking and Financial Institutions;Trump, Donald J;Biden, Joseph R Jr;Sanders, Bernard;United States Politics and Government",
+            "column": null,
+            "section": "Magazine",
+            "byline": "By EMILY BAZELON",
+            "type": "Article",
+            "title": "Elizabeth Warren Is Completely Serious",
+            "abstract": "About income inequality. About corporate power. About corrupt politics. And about being America’s next president.",
+            "published_date": "2019-06-17",
+            "source": "The New York Times",
+            "id": 100000006557694,
+            "asset_id": 100000006557694,
+            "views": 18,
+            "des_facet": [
+                "PRESIDENTIAL ELECTION OF 2020",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "DEMOCRATIC PARTY",
+                "BANKING AND FINANCIAL INSTITUTIONS"
+            ],
+            "per_facet": [
+                "WARREN, ELIZABETH",
+                "TRUMP, DONALD J",
+                "BIDEN, JOSEPH R JR",
+                "SANDERS, BERNARD"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Sharif Hamza for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/23/magazine/23mag-cover/23mag-cover-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/23/magazine/23mag-cover/23mag-cover-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/23/magazine/23mag-cover/23mag-cover-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/85f6e04e-0c41-5485-ae73-c65fc3f53009"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/21/us/politics/trump-iran-attack.html",
+            "adx_keywords": "Iran;Trump, Donald J;United States International Relations;United States Defense and Military Forces;United States Politics and Government",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By MICHAEL D. SHEAR, HELENE COOPER and ERIC SCHMITT",
+            "type": "Article",
+            "title": "Trump Says He Was ‘Cocked and Loaded’ to Strike Iran, but Pulled Back",
+            "abstract": "The president said he stopped because 150 people would probably die in an attack as retaliation for Iranians shooting down an unmanned American drone.",
+            "published_date": "2019-06-21",
+            "source": "The New York Times",
+            "id": 100000006572058,
+            "asset_id": 100000006572058,
+            "views": 19,
+            "des_facet": [
+                "UNITED STATES INTERNATIONAL RELATIONS",
+                "UNITED STATES DEFENSE AND MILITARY FORCES",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": [
+                "IRAN"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump’s national security advisers split about whether to respond militarily.",
+                    "copyright": "Erin Schaff/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/21/us/21prexy-promo-1/21prexy-promo-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/21/us/21prexy-promo-1/merlin_156790470_e5e1d1a4-4388-453b-be50-522119fdfb2f-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/21/us/21prexy-promo-1/merlin_156790470_e5e1d1a4-4388-453b-be50-522119fdfb2f-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/ccb1f1ea-438d-589c-b106-2a9e9601034e"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/15/us/politics/trump-cyber-russia-grid.html",
+            "adx_keywords": "Cyberwarfare and Defense;United States Defense and Military Forces;United States International Relations;Russian Interference in 2016 US Elections and Ties to Trump Associates;Computers and the Internet;United States Cyber Command;Defense Department;Trump, Donald J;Bolton, John R;Obama, Barack;Putin, Vladimir V",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By DAVID E. SANGER and NICOLE PERLROTH",
+            "type": "Article",
+            "title": "U.S. Escalates Online Attacks on Russia’s Power Grid",
+            "abstract": "The Trump administration is using new authority to take more aggressive digital action in a warning to Moscow and in a demonstration of its abilities.",
+            "published_date": "2019-06-15",
+            "source": "The New York Times",
+            "id": 100000006459843,
+            "asset_id": 100000006459843,
+            "views": 20,
+            "des_facet": [
+                "UNITED STATES DEFENSE AND MILITARY FORCES",
+                "UNITED STATES INTERNATIONAL RELATIONS",
+                "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES"
+            ],
+            "org_facet": [
+                "CYBERWARFARE AND DEFENSE",
+                "COMPUTERS AND THE INTERNET",
+                "UNITED STATES CYBER COMMAND",
+                "DEFENSE DEPARTMENT"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J",
+                "BOLTON, JOHN R",
+                "OBAMA, BARACK",
+                "PUTIN, VLADIMIR V"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A heating power plant in Moscow. Power grids have been a low-intensity battleground for years.",
+                    "copyright": "Maxim Shemetov/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/16/us/15dc-cyber-promo/merlin_156457626_1b60d31b-1111-44b0-a9c2-d4357fbac07b-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/16/us/15dc-cyber-promo/merlin_156457626_1b60d31b-1111-44b0-a9c2-d4357fbac07b-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/06/16/us/15dc-cyber-promo/merlin_156457626_1b60d31b-1111-44b0-a9c2-d4357fbac07b-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/3a5ba81f-1dc4-5921-8698-bb17c0a06986"
+        }
+    ]
+}

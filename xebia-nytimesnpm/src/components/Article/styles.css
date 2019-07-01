@@ -1,0 +1,58 @@
+.Article {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  margin: 0 10px;
+  border-bottom: 1px solid #efefef;
+  cursor: pointer;
+}
+
+.Article:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.ArticleImgHolder {
+  width: 80px;
+  flex: 0 0 80px;
+  text-align: center;
+}
+
+.ArticleImgHolder img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.ArticleButtonHolder {
+  width: 20px;
+  flex: 0 0 20px;
+}
+
+.ArticleContentHolder {
+  flex: 1;
+  padding: 0 20px;
+  color: #6c757d;
+}
+
+.ArticleByLine {
+  font-size: 14px;
+}
+
+.ArticlePublishedDate {
+  font-size: 12px;
+}
+
+.ArticlePublishedDateIcon {
+  font-size: 12px;
+  position: relative;
+  top: -2px;
+  margin-right: 4px;
+}
+.each-article {
+  padding: 8px 70px 8px 70px;
+  cursor: pointer;
+}
+
+.each-article:hover {
+  background: #e9ecef;
+}
